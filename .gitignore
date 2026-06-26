@@ -5,3 +5,6 @@ venv/
 .env
 .vscode/
 *.log
+
+# ローカル専用（GitHub アップロード禁止）
+設定覚書.txt
